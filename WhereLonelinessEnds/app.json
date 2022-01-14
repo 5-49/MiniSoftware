@@ -1,0 +1,36 @@
+{
+  "pages":[
+    "pages/home/home",
+    "pages/about/about",
+    "pages/book/book",
+    "pages/movie/movie",
+    "pages/song/song",
+    "pages/story/story"
+  ],
+  "window":{
+    "backgroundTextStyle":"light",
+    "navigationBarBackgroundColor": "#8B8378",
+    "navigationBarTitleText": "在孤独结束的地方",
+    "navigationBarTextStyle":"white"
+  },
+  "style": "v2",
+  "sitemapLocation": "sitemap.json",
+  "tabBar":{
+    "color": "#8b8378",
+    "selectedColor": "#fff",
+    "borderStyle": "black" ,
+    "backgroundColor": "#cdc0b0",
+    "list": [{
+        "selectedIconPath": "icons/home.png",
+        "iconPath": "icons/home.png",
+        "pagePath": "pages/home/home",
+        "text": "首页"
+      }, {
+        "selectedIconPath": "icons/my.png",
+        "iconPath": "icons/my.png",
+        "pagePath": "pages/about/about",
+        "text": "关于写手"
+      }
+    ]
+  }
+}

@@ -1,0 +1,10 @@
+/* pages/book/book.wxss */
+page {
+  background-color: #fff5ee;
+}
+.info_text{
+  color: #8b8378;
+  font-family: FangSong;
+  padding: 30rpx  50rpx;
+  font-size: small;
+}

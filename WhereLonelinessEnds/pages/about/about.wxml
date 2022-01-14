@@ -1,0 +1,9 @@
+<!--pages/about/about.wxml-->
+<view class="info_text">
+  <text>写者：十九 \n\n </text>
+  <text>ISFJ-A，天蝎座\n</text>
+  <text>坐标上海，同济大学本科在读\n\n</text>
+  <text>朋友眼中“有趣且可靠的人”\n 自己眼中“悲观又勇敢的偏执狂”。\n\n</text>
+  <text>偏执狂的近义词是孤勇者。\n 不会沉睡，不会熄灭。\n 如今我21岁，我仍然觉得这个世界上没有我完不成的。</text>
+</view>
+

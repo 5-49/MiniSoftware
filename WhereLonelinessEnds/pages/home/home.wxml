@@ -1,0 +1,20 @@
+<!--pages/home/home.wxml-->
+
+<view class="container">
+  <text class="menu_text">陪你读——书评</text>
+  <navigator url="/pages/book/book">
+    <image class="catagory" mode="aspectFit" src="../images/1.jpg" />
+  </navigator>
+  <text class="menu_text">陪你看——影评</text>
+  <navigator url="/pages/movie/movie">
+    <image class="catagory" mode="aspectFit" src="../images/2.jpg" />
+  </navigator>
+  <text class="menu_text">陪你听——乐评</text>
+  <navigator url="/pages/song/song">
+    <image class="catagory" mode="aspectFit" src="../images/3.jpg" />
+  </navigator>
+  <text class="menu_text">陪你聊——故事</text>
+  <navigator url="/pages/story/story">
+    <image class="catagory" mode="aspectFit" src="../images/4.jpg" />
+  </navigator>
+</view>

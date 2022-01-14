@@ -1,0 +1,14 @@
+/* pages/home/home.wxss */
+page {
+  background-color: #fff5ee;
+}
+.catagory{
+  height:200rpx;
+  width: 500rpx;
+  float:center;
+  margin: 10rpx 30rpx;
+}
+.menu_text{
+  color: #8b8378;
+  font-family: NSimSun;
+}

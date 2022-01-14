@@ -1,0 +1,10 @@
+/* pages/about/about.wxss */
+page {
+  background-color: #fff5ee;
+}
+.info_text{
+  color: #8b8378;
+  font-family: FangSong;
+  margin: 60rpx;
+  font-size: large;
+}
