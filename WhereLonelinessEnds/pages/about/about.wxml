@@ -1,9 +1,15 @@
 <!--pages/about/about.wxml-->
 <view class="info_text">
-  <text>写者：十九 \n\n </text>
+  <text>小程序介绍：本小程序每个模块内置了几十种不同的电影/音乐/句子，帮助你在不知道看什么/听什么/读什么的时候做出决定。\n </text>
+  <text>日后会更新“解忧杂货铺”功能。请期待。\n\n </text>
+  <text>小程序作者：十九（豆瓣同名） \n\n </text>
   <text>ISFJ-A，天蝎座\n</text>
   <text>坐标上海，同济大学本科在读\n\n</text>
-  <text>朋友眼中“有趣且可靠的人”\n 自己眼中“悲观又勇敢的偏执狂”。\n\n</text>
-  <text>偏执狂的近义词是孤勇者。\n 不会沉睡，不会熄灭。\n 如今我21岁，我仍然觉得这个世界上没有我完不成的。</text>
+  <text>朋友眼中“有趣且可靠的人”\n 自己眼中“悲观但勇敢的偏执狂”。\n\n</text>
+  <text>Less is more. </text>
+</view>
+<view class="code">
+  <image  mode="aspectFit"  show-menu-by-longpress="true" src="../images/code.jpg" />
+  <text>\n 作者公众号，长按前往\n\n</text>
 </view>
 

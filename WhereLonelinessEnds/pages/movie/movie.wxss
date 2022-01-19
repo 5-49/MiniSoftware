@@ -1,1 +1,35 @@
-/* pages/movie/movie.wxss */
+page {
+    background-color: #fff5ee;
+  }
+  .info_text{
+    color: #8b8378;
+    font-family: FangSong;
+    padding: 30rpx  50rpx;
+    font-size: small;
+  }
+  .main_text{
+    color: #8b8378;
+    font-family: FangSong;
+    margin: 60rpx;
+    font-size: 40rpx;
+  }
+  .page-section{
+    height:966rpx;
+    margin-top: 88rpx;
+  }
+  .btn{
+    height:88rpx;
+    background: #eedfccbb !important;
+    color: #8B7D6B !important;
+  }
+  .img{
+    height:900rpx;
+  }
+  ._container {
+    height: 100%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: space-between;
+    box-sizing: border-box;
+}

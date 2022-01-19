@@ -1,2 +1,12 @@
-<!--pages/story/story.wxml-->
-<text>pages/story/story.wxml</text>
+<view  class="info_text">
+  <text>更多内容可移步公众号“在孤独结束的地方”</text>
+</view>
+
+<view class="container">
+    <view class="page-section">
+      <view class="main_text" scroll-y="true" scroll-top="{{scrollTop}}">
+        <text>{{text}}</text>
+      </view>
+    </view>
+    <button bindtap="change" class="btn">摇一摇</button>
+</view>

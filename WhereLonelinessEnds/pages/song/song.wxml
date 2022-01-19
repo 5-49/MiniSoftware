@@ -1,2 +1,14 @@
-<!--pages/song/song.wxml-->
-<text>pages/song/song.wxml</text>
+<view  class="info_text">
+  <text>更多内容可移步公众号“在孤独结束的地方”</text>
+  <text>\n\n\n 由于小程序内无法直接识别网易云二维码，请保存或分享图片到聊天框后长按识别播放。</text>
+</view>
+
+<view class="container">
+    <view class="page-section">
+      <view scroll-y="true" scroll-top="{{scrollTop}}">
+        <image class="img" mode="aspectFit" show-menu-by-longpress="true" src="{{text}}" />
+      </view>
+    </view>
+    <button bindtap="change" class="btn">摇一摇</button>
+    
+</view>

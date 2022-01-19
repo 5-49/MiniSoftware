@@ -1,1 +1,21 @@
-/* pages/song/song.wxss */
+page {
+    background-color: #fff5ee;
+  }
+  .info_text{
+    color: #8b8378;
+    font-family: FangSong;
+    padding: 30rpx  50rpx;
+    font-size: small;
+  }
+  .page-section{
+    height:766rpx;
+    margin-top: 58rpx;
+  }
+  .btn{
+    height:88rpx;
+    background: #eedfccbb !important;
+    color: #8B7D6B !important;
+  }
+  .img{
+    height:600rpx;
+  }

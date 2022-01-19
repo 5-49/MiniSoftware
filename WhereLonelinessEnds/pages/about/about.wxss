@@ -6,5 +6,14 @@ page {
   color: #8b8378;
   font-family: FangSong;
   margin: 60rpx;
-  font-size: large;
+}
+.code{
+  margin-top: 66rpx;
+  font-size: 35rpx;
+  color: #8b8378;
+  font-family: FangSong;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: space-between;
 }

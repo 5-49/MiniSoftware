@@ -1,2 +1,12 @@
-<!--pages/movie/movie.wxml-->
-<text>pages/movie/movie.wxml</text>
+<view  class="info_text">
+  <text>更多内容可移步公众号“在孤独结束的地方”</text>
+</view>
+
+<view class="_container">
+    <view class="page-section">
+      <view scroll-y="true" scroll-top="{{scrollTop}}">
+        <image class="img" mode="aspectFit" show-menu-by-longpress="true" src="{{text}}" />
+      </view>
+    </view>
+    <button bindtap="change" class="btn">换一部</button>
+</view>

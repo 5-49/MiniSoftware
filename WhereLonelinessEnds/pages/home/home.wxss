@@ -4,11 +4,12 @@ page {
 }
 .catagory{
   height:200rpx;
-  width: 500rpx;
+  width: 580rpx;
   float:center;
   margin: 10rpx 30rpx;
 }
 .menu_text{
   color: #8b8378;
   font-family: NSimSun;
+  margin-top: 30rpx;
 }
